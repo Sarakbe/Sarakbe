@@ -10,3 +10,5 @@
 Sarakbe/Sarakbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2311d252b78e4bdf8d4ea3d83af123bc)](https://app.codacy.com/gh/Sarakbe/Sarakbe?utm_source=github.com&utm_medium=referral&utm_content=Sarakbe/Sarakbe&utm_campaign=Badge_Grade)
